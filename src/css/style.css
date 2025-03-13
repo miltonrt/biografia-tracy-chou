@@ -1,0 +1,18 @@
+.carousel-item h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 0.12em 0.1em black;
+}
+
+.carousel-item p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-shadow: 0.15em 0.1em black;
+}
+
+.carousel-item img {
+    width: 100vh;
+    height: 100vh;
+    object-fit: cover;
+}
